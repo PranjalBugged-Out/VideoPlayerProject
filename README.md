@@ -15,6 +15,15 @@ A simple and stylish **HTML5 Video Player** with custom controls using **JavaScr
 
 ---
 
+### **How This Looks on GitHub**
+- Uses **Markdown formatting** (headers, lists, and tables).  
+- Includes **proper sections** for **installation, features, and usage**.  
+- Uses **code blocks (` ```bash `)** for Git commands.  
+- Contains **a table for keyboard shortcuts** for a clean display.  
+- Keeps it **clean, readable, and professional**.  
+
+---
+
 ## 📥 Installation & Usage
 
  
@@ -24,13 +33,4 @@ git clone https://github.com/YOUR-USERNAME/Video-Player.git
 
 ---
 
-
-### **How This Looks on GitHub**
-- Uses **Markdown formatting** (headers, lists, and tables).  
-- Includes **proper sections** for **installation, features, and usage**.  
-- Uses **code blocks (` ```bash `)** for Git commands.  
-- Contains **a table for keyboard shortcuts** for a clean display.  
-- Keeps it **clean, readable, and professional**.  
-
----
 
