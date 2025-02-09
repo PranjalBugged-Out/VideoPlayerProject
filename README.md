@@ -29,6 +29,7 @@ A simple and stylish **HTML5 Video Player** with custom controls using **JavaScr
  
 ###Clone the Repository
 ```bash
+
 git clone https://github.com/YOUR-USERNAME/Video-Player.git
 
 
