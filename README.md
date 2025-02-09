@@ -17,10 +17,12 @@ A simple and stylish **HTML5 Video Player** with custom controls using **JavaScr
 
 ## 📥 Installation & Usage
 
-### 1️⃣ Clone the Repository
+ 
+###Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/Video-Player.git
 
+---
 
 
 ### **How This Looks on GitHub**
@@ -32,4 +34,3 @@ git clone https://github.com/YOUR-USERNAME/Video-Player.git
 
 ---
 
-Now, **copy-paste this into your `README.md`** file and push it to your GitHub repository! 🚀 Let me know if you need any modifications! 😊
